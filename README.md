@@ -1,6 +1,6 @@
 ### **Hi there, I'm Benedikt!👋**
 
-Glad you found your way to my Github profile in the far corners of the internet!
+Glad you found your way to my Github profile in the far corners of the internet🌐!
 
 I am a Python🐍 developer and work on cool projects here. Mainly I deal with programming and designing applications.
 
@@ -16,7 +16,6 @@ If you want to contact me, click here:
 <!--
 ![alt text](https://discord.com)
 
-<!--
 **FuchsBene/FuchsBene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
