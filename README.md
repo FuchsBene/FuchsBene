@@ -7,7 +7,7 @@ If you find this interesting, feel free to look around!
 
 I’m currently working on **StreetPy**, wich is a infotainment system for your car. If you feel like collaborating, contact me below🔽
 
-### Contact me
+### Contact me!
 
 If you want to contact me, click here:
 
@@ -15,7 +15,7 @@ If you want to contact me, click here:
 
 
 <!--
-![alt text](https://discord.com)
+![alt text](https://link.com)
 
 **FuchsBene/FuchsBene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
