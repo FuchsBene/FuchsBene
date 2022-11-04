@@ -1,14 +1,16 @@
-### Hi, I'm Benedikt!
+### **Hi there, I'm Benedikt!👋**
 
 Glad you found your way to my Github profile in the far corners of the internet!
 
-I am a Python developer and work on cool projects here. Mainly I deal with programming and designing applications.
+I am a Python🐍 developer and work on cool projects here. Mainly I deal with programming and designing applications.
 
-I’m currently working on StreetPy, wich is a infotainment system for your car.
+I’m currently working on **StreetPy**, wich is a infotainment system for your car. If you feel like collaborating, contact me below🔽
+
+### Contact me
 
 If you want to contact me, click here:
 
-https://linktr.ee/fuchsbene_129
+**https://linktr.ee/fuchsbene_129**
 
 
 <!--
