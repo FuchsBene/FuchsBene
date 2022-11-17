@@ -5,7 +5,6 @@ Glad you found your way to my Github profile in the far corners of the internet�
 I am a Python🐍 developer and work on cool projects here. Mainly I deal with programming and designing applications.                                                     
 If you find this interesting, feel free to look around!
 
-I’m currently working on **StreetPy**, wich is a infotainment system for your car. If you feel like collaborating, contact me below🔽
 
 ### Contact me!
 
