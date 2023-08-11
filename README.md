@@ -5,9 +5,6 @@ Glad you found your way to my Github profile in the far corners of the internetğ
 I am a PythonğŸ developer and work on cool projects here. Mainly I deal with programming and designing applications.                                                     
 If you find this interesting, feel free to look around!
 
-
-### Contact me!
-
 If you want to contact me, click here:
 
 **https://linktr.ee/fuchsbene_129**
