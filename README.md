@@ -2,10 +2,10 @@
 
 Glad you found your way to my Github profile in the far corners of the internet🌐!
 
-I am a Python🐍 developer and work on cool projects here. Mainly I deal with programming and designing applications.                                                     
+I am a Python🐍 developer and work on cool projects here. Mainly I deal with programming and designing desktop applications.                                                     
 If you find this interesting, feel free to look around!
 
-If you want to contact me, click here:
+### Contact:
 
 **https://linktr.ee/fuchsbene_129**
 
